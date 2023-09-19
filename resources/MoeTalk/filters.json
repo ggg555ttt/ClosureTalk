@@ -1,0 +1,763 @@
+[
+    {
+        "active": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "filter_names": [
+            {
+                "zh-cn": "SRT",
+                "zh-tw": "SRT",
+                "ja": "SRT",
+                "en": "SRT",
+                "ko": "SRT"
+            },
+            {
+                "zh-cn": "阿比多斯",
+                "zh-tw": "阿拜多斯",
+                "ja": "アビドス",
+                "en": "ABYDOS",
+                "ko": "아비도스"
+            },
+            {
+                "zh-cn": "阿里乌斯",
+                "zh-tw": "阿里烏斯",
+                "ja": "アリウス",
+                "en": "ARIUS",
+                "ko": "아리우스"
+            },
+            {
+                "zh-cn": "百鬼夜行",
+                "zh-tw": "百鬼夜行",
+                "ja": "百鬼夜行",
+                "en": "HYAKKIYAKO",
+                "ko": "백귀야행"
+            },
+            {
+                "zh-cn": "赤冬",
+                "zh-tw": "赤冬",
+                "ja": "レッドウィンター",
+                "en": "REDWINTER",
+                "ko": "붉은겨울"
+            },
+            {
+                "zh-cn": "格黑娜",
+                "zh-tw": "格赫娜",
+                "ja": "ゲヘナ",
+                "en": "GEHENNA",
+                "ko": "게헨나"
+            },
+            {
+                "zh-cn": "其他",
+                "zh-tw": "其他",
+                "ja": "エキストラ",
+                "en": "EXTRA",
+                "ko": "엑스트라"
+            },
+            {
+                "zh-cn": "千年",
+                "zh-tw": "千年",
+                "ja": "ミレニアム",
+                "en": "MILLENNIUM",
+                "ko": "밀레니엄"
+            },
+            {
+                "zh-cn": "山海经",
+                "zh-tw": "山海經",
+                "ja": "山海経",
+                "en": "SHANHAIJING",
+                "ko": "산해경"
+            },
+            {
+                "zh-cn": "圣三一",
+                "zh-tw": "聖三一",
+                "ja": "トリニティ",
+                "en": "TRINITY",
+                "ko": "트리니티"
+            },
+            {
+                "zh-cn": "瓦尔基里",
+                "zh-tw": "瓦爾基里",
+                "ja": "ヴァルキューレ",
+                "en": "VALKYRIE",
+                "ko": "발키리"
+            }
+        ],
+        "filter_searches": [
+            "SRT",
+            "阿比多斯",
+            "阿里乌斯",
+            "百鬼夜行",
+            "赤冬",
+            "格黑娜",
+            "其他",
+            "千年",
+            "山海经",
+            "圣三一",
+            "瓦尔基里"
+        ],
+        "group_key": "schools",
+        "group_name": {
+            "zh-cn": "学院",
+            "zh-tw": "學院",
+            "jp": "学園",
+            "en": "School",
+            "kr": "학원"
+        }
+    },
+    {
+        "active": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "filter_names": [
+            {
+                "zh-cn": "狐狸小队",
+                "zh-tw": "狐狸小隊",
+                "ja": "FOX 小隊",
+                "en": "FOX Platoon",
+                "ko": "FOX 소대"
+            },
+            {
+                "zh-cn": "兔子小队",
+                "zh-tw": "兔子小隊",
+                "ja": "RABBIT 小隊",
+                "en": "RABBIT Platoon",
+                "ko": "RABBIT 소대"
+            },
+            {
+                "zh-cn": "对策委员会",
+                "zh-tw": "對策委員會",
+                "ja": "対策委員会",
+                "en": "Countermeasures Council",
+                "ko": "대책위원회"
+            },
+            {
+                "zh-cn": "阿里乌斯特殊小队",
+                "zh-tw": "阿里烏斯特殊小隊",
+                "ja": "アリウス スクワッド",
+                "en": "Arius Squad",
+                "ko": "아리우스 스쿼드"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "百花缭乱纷争调停委员会",
+                "zh-tw": "百花繚亂紛爭調停委員會",
+                "ja": "百花繚乱紛争調停委員会",
+                "en": "Hyakkayouran Conflict Resolution Council",
+                "ko": "백화요란 분쟁조정위원회"
+            },
+            {
+                "zh-cn": "庆典运营委员会",
+                "zh-tw": "慶典運營委員會",
+                "ja": "お祭り運営委員会",
+                "en": "Festival Management Committee",
+                "ko": "마츠리운영관리부"
+            },
+            {
+                "zh-cn": "忍术研究部",
+                "zh-tw": "忍術研究部",
+                "ja": "忍術研究部",
+                "en": "Ninjutsu Research Department",
+                "ko": "인법연구부"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "修行部",
+                "zh-tw": "執行部",
+                "ja": "修行部",
+                "en": "Etiquette Training Society",
+                "ko": "수행부"
+            },
+            {
+                "zh-cn": "阴阳部",
+                "zh-tw": "陰陽部",
+                "ja": "陰陽部",
+                "en": "Yin-Yang Club",
+                "ko": "음양부"
+            },
+            {
+                "zh-cn": "魑魅一座・路上流",
+                "zh-tw": "二水魅劇團路流",
+                "ja": "魑魅一座・路上流",
+                "en": "Chimi Ichiza Rojou Ryu",
+                "ko": "이매일좌 노상류"
+            },
+            {
+                "zh-cn": "227号特别班",
+                "zh-tw": "227號特別班",
+                "ja": "227号特別クラス",
+                "en": "Spec Ops.227",
+                "ko": "227호 특별반"
+            },
+            {
+                "zh-cn": "赤冬事务局",
+                "zh-tw": "赤冬事務局",
+                "ja": "レッドウィンター事務局",
+                "en": "REDWINTER Secretariat",
+                "ko": "붉은겨울 사무국"
+            },
+            {
+                "zh-cn": "出版部",
+                "zh-tw": "",
+                "ja": "",
+                "en": "",
+                "ko": ""
+            },
+            {
+                "zh-cn": "工务部",
+                "zh-tw": "工務部",
+                "ja": "工務部",
+                "en": "Construction Department",
+                "ko": "용역부"
+            },
+            {
+                "zh-cn": "知识解放战线",
+                "zh-tw": "知識解放戰線",
+                "ja": "知識解放戦線",
+                "en": "Knowledge Liberation Front",
+                "ko": "지식해방전선"
+            },
+            {
+                "zh-cn": "便利屋68",
+                "zh-tw": "便利屋68",
+                "ja": "便利屋68",
+                "en": "Problem Solver 68",
+                "ko": "흥신소68"
+            },
+            {
+                "zh-cn": "风纪委员会",
+                "zh-tw": "糾察部",
+                "ja": "風紀委員会",
+                "en": "Prefect Team",
+                "ko": "선도부"
+            },
+            {
+                "zh-cn": "给食部",
+                "zh-tw": "給食部",
+                "ja": "給食部",
+                "en": "School Lunch Club",
+                "ko": "급양부"
+            },
+            {
+                "zh-cn": "归宅部",
+                "zh-tw": "歸宅部",
+                "ja": "帰宅部",
+                "en": "Go-Home Club",
+                "ko": "귀가부"
+            },
+            {
+                "zh-cn": "救急医学部",
+                "zh-tw": "救急醫學部",
+                "ja": "救急医学部",
+                "en": "Emargency Medicine Club",
+                "ko": "응급의학부"
+            },
+            {
+                "zh-cn": "美食研究会",
+                "zh-tw": "美食研究會",
+                "ja": "美食研究会",
+                "en": "Gourmet Research Society",
+                "ko": "미식연구회"
+            },
+            {
+                "zh-cn": "万魔殿",
+                "zh-tw": "萬魔殿",
+                "ja": "万魔殿",
+                "en": "Pandemonium Society",
+                "ko": "만마전"
+            },
+            {
+                "zh-cn": "温泉开发部",
+                "zh-tw": "溫泉開發部",
+                "ja": "温泉開発部",
+                "en": "Onsen Development Club",
+                "ko": "온천개발부"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "柴关拉面",
+                "zh-tw": "柴關拉麵",
+                "ja": "柴関ラーメン",
+                "en": "Sibaseki Ramen",
+                "ko": "시바세키 라멘"
+            },
+            {
+                "zh-cn": "凯撒",
+                "zh-tw": "凱撒",
+                "ja": "カイザー",
+                "en": "Kaiser",
+                "ko": "카이저"
+            },
+            {
+                "zh-cn": "凯坦泽",
+                "zh-tw": "凱坦澤",
+                "ja": "カイテンジャー",
+                "en": "Kaitenger",
+                "ko": "카이텐저"
+            },
+            {
+                "zh-cn": "克洛诺斯报道部",
+                "zh-tw": "克洛諾斯報道部",
+                "ja": "クロノス 報道部",
+                "en": "Cronos Press Department",
+                "ko": "크로노스 보도부"
+            },
+            {
+                "zh-cn": "联邦学生会",
+                "zh-tw": "聯邦學生會",
+                "ja": "連邦生徒会",
+                "en": "GSC",
+                "ko": "연방학생회"
+            },
+            {
+                "zh-cn": "色彩",
+                "zh-tw": "色彩",
+                "ja": "色彩",
+                "en": "Color",
+                "ko": "색채"
+            },
+            {
+                "zh-cn": "十字神名",
+                "zh-tw": "十字神名",
+                "ja": "デカグラマトン",
+                "en": "Decagrammaton",
+                "ko": "데카그라마톤"
+            },
+            {
+                "zh-cn": "什庭之匣",
+                "zh-tw": "希迪姆的箱子",
+                "ja": "シッテムの箱",
+                "en": "Shittim Chests",
+                "ko": "싯딤의 상자"
+            },
+            {
+                "zh-cn": "数秘术",
+                "zh-tw": "蓋瑪特利亞",
+                "ja": "ゲマトリア",
+                "en": "Gematria",
+                "ko": "게마트리아"
+            },
+            {
+                "zh-cn": "斯兰皮亚",
+                "zh-tw": "斯兰皮亚",
+                "ja": "スランピア",
+                "en": "Slumpia",
+                "ko": "슬럼피아"
+            },
+            {
+                "zh-cn": "所确幸",
+                "zh-tw": "",
+                "ja": "",
+                "en": "",
+                "ko": ""
+            },
+            {
+                "zh-cn": "天使24",
+                "zh-tw": "天使24",
+                "ja": "エンジェル24",
+                "en": "Angel 24",
+                "ko": "엔젤 24"
+            },
+            {
+                "zh-cn": "头盔团",
+                "zh-tw": "頭盔團",
+                "ja": "ヘルメット団",
+                "en": "Helmet Gang",
+                "ko": "헬멧단"
+            },
+            {
+                "zh-cn": "无名众神",
+                "zh-tw": "",
+                "ja": "",
+                "en": "",
+                "ko": ""
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "无限怪谈图书馆",
+                "zh-tw": "無限怪談圖書館",
+                "ja": "The Library of Lore",
+                "en": "The Library of Lore",
+                "ko": "The Library of Lore"
+            },
+            {
+                "zh-cn": "联邦搜查社团「夏莱」",
+                "zh-tw": "聯邦搜查社團「夏萊」",
+                "ja": "連邦捜査部「シャーレ」",
+                "en": "Schale, Independent Federal Investigation Club",
+                "ko": "연방수사동아리 <S.C.H.A.L.E>"
+            },
+            {
+                "zh-cn": "诸圣相通",
+                "zh-tw": "諸聖相通",
+                "ja": "コムニオ・サンクトラム",
+                "en": "Communio Sanctorum",
+                "ko": "코뮤니오 상토룸"
+            },
+            {
+                "zh-cn": "自动机器人",
+                "zh-tw": "自動機器人",
+                "ja": "オートマタ",
+                "en": "Automata",
+                "ko": "오토마타"
+            },
+            {
+                "zh-cn": "C&C",
+                "zh-tw": "C&C",
+                "ja": "Cleaning & Clearing",
+                "en": "Cleaning & Clearing",
+                "ko": "Cleaning & Clearing"
+            },
+            {
+                "zh-cn": "工程部",
+                "zh-tw": "工程師部",
+                "ja": "エンジニア部",
+                "en": "Engineering Department",
+                "ko": "엔지니어부"
+            },
+            {
+                "zh-cn": "健身部",
+                "zh-tw": "健身部",
+                "ja": "トレーニング部",
+                "en": "Gym Training Department",
+                "ko": "트레이닝부"
+            },
+            {
+                "zh-cn": "特异现象搜查部",
+                "zh-tw": "特異現象搜查部",
+                "ja": "特異現象捜査部",
+                "en": "Super Phenomenon Task Force",
+                "ko": "초현상특무부"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "研讨会",
+                "zh-tw": "研討會",
+                "ja": "セミナー",
+                "en": "Seminar",
+                "ko": "세미나"
+            },
+            {
+                "zh-cn": "游戏开发部",
+                "zh-tw": "遊戲開發部",
+                "ja": "ゲーム開発部",
+                "en": "Game Development Department",
+                "ko": "게임개발부"
+            },
+            {
+                "zh-cn": "真理部",
+                "zh-tw": "貝利塔斯",
+                "ja": "ヴェリタス",
+                "en": "Veritas",
+                "ko": "베리타스"
+            },
+            {
+                "zh-cn": "炼丹术研究会",
+                "zh-tw": "煉丹術研究會",
+                "ja": "練丹術研究会",
+                "en": "Eastern Alchemy Society",
+                "ko": "연단방"
+            },
+            {
+                "zh-cn": "教育支援部「梅花园」",
+                "zh-tw": "教育支援部「梅花園」",
+                "ja": "訓育支援部「梅花園」",
+                "en": "Plum Blossom Garden",
+                "ko": "훈육지원부 「매화원」"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "玄龙门",
+                "zh-tw": "玄龍門",
+                "ja": "玄竜門",
+                "en": "Genryumon",
+                "ko": "현룡문"
+            },
+            {
+                "zh-cn": "玄武商会",
+                "zh-tw": "玄武商會",
+                "ja": "玄武商会",
+                "en": "Genbu Shokai",
+                "ko": "현무상회"
+            },
+            {
+                "zh-cn": "补习部",
+                "zh-tw": "補習部",
+                "ja": "補習授業部",
+                "en": "Make-Up Work Club",
+                "ko": "보충수업부"
+            },
+            {
+                "zh-cn": "茶会",
+                "zh-tw": "茶會",
+                "ja": "ティーパーティー",
+                "en": "Tea Party",
+                "ko": "티 파티"
+            },
+            {
+                "zh-cn": "放学后甜品部",
+                "zh-tw": "放學後甜品部",
+                "ja": "放課後スイーツ部",
+                "en": "After-School Sweets Club",
+                "ko": "방과후 디저트부"
+            },
+            {
+                "zh-cn": "救护骑士团",
+                "zh-tw": "救護騎士團",
+                "ja": "救護騎士団",
+                "en": "Remedial Knights",
+                "ko": "구호기사단"
+            },
+            {
+                "zh-cn": "圣三一自警团",
+                "zh-tw": "聖三一自警團",
+                "ja": "トリニティ自警団",
+                "en": "Vigilante Crew",
+                "ko": "트리니티 자경단"
+            },
+            {
+                "zh-cn": "图书委员会",
+                "zh-tw": "圖書委員會",
+                "ja": "図書委員会",
+                "en": "Library Committee",
+                "ko": "도서부"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            },
+            {
+                "zh-cn": "修女会",
+                "zh-tw": "修女會",
+                "ja": "シスターフッド",
+                "en": "Sisterhood",
+                "ko": "시스터후드"
+            },
+            {
+                "zh-cn": "正义实现委员会",
+                "zh-tw": "正義實現委員會",
+                "ja": "正義実現委員会",
+                "en": "Justice Task Force",
+                "ko": "정의실현부"
+            },
+            {
+                "zh-cn": "公安局",
+                "zh-tw": "公安局",
+                "ja": "公安局",
+                "en": "Public Security Bureau",
+                "ko": "공안국"
+            },
+            {
+                "zh-cn": "生活安全局",
+                "zh-tw": "生活安全局",
+                "ja": "生活安全局",
+                "en": "Community Safety Bureau",
+                "ko": "생활안전국"
+            },
+            {
+                "zh-cn": "所属不明",
+                "zh-tw": "所屬不明",
+                "ja": "所属不明",
+                "en": "Unknown",
+                "ko": "소속 불명"
+            }
+        ],
+        "filter_searches": [
+            "狐狸小队",
+            "兔子小队",
+            "对策委员会",
+            "特殊小队",
+            "所属不明-阿里乌斯",
+            "百花缭乱纷争调停委员会",
+            "庆典运营委员会",
+            "忍术研究部",
+            "所属不明-百鬼夜行",
+            "修行部",
+            "阴阳部",
+            "魑魅一座",
+            "227号特别班",
+            "赤冬事务局",
+            "出版部",
+            "工务部",
+            "知识解放战线",
+            "便利屋68",
+            "风纪委员会",
+            "给食部",
+            "归宅部",
+            "救急医学部",
+            "美食研究部",
+            "万魔殿",
+            "温泉开发部",
+            "所属不明-格黑娜",
+            "柴关拉面",
+            "凯撒集团",
+            "凯坦泽",
+            "克洛诺斯报道部",
+            "联邦学生会",
+            "色彩",
+            "十字神明",
+            "什亭之匣",
+            "数秘术",
+            "斯兰皮亚",
+            "所确幸",
+            "天使24",
+            "头盔团",
+            "无名众神",
+            "所属不明-其他",
+            "无限怪谈图书馆",
+            "夏莱",
+            "诸圣相通",
+            "自动机器人",
+            "C&C",
+            "工程部",
+            "健身部",
+            "特异现象搜查部",
+            "所属不明-千年",
+            "研讨会",
+            "游戏开发部",
+            "真理部",
+            "炼丹术研究会",
+            "梅花园",
+            "所属不明-山海经",
+            "玄龙门",
+            "玄武商会",
+            "补习部",
+            "茶会",
+            "放学后甜品部",
+            "救护骑士团",
+            "圣三一自警团",
+            "图书委员会",
+            "所属不明-圣三一",
+            "修女会",
+            "正义实现委员会",
+            "公安局",
+            "生活安全局",
+            "所属不明-瓦尔基里"
+        ],
+        "group_key": "clubs",
+        "group_name": {
+            "zh-cn": "社团",
+            "zh-tw": "社團",
+            "jp": "サークル",
+            "en": "Club",
+            "kr": "동아리"
+        }
+    }
+]
